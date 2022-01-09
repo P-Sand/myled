@@ -31,7 +31,7 @@ $ echo a > /dev/myled0
 ```
 Words consisting only of lowercase letters can be used.
 
-## renmove
+## remove
 ```
 $ sudo rmmod myled
 ```
